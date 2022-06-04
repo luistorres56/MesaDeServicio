@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MesaDeServicio/static/css/main.98f8eb1d.css",
+    "main.js": "/MesaDeServicio/static/js/main.77ef3dcd.js",
+    "index.html": "/MesaDeServicio/index.html",
+    "main.98f8eb1d.css.map": "/MesaDeServicio/static/css/main.98f8eb1d.css.map",
+    "main.77ef3dcd.js.map": "/MesaDeServicio/static/js/main.77ef3dcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f8eb1d.css",
+    "static/js/main.77ef3dcd.js"
+  ]
+}
